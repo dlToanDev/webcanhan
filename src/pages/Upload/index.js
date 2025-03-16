@@ -1,14 +1,7 @@
-import Header from "~/components/Layout/DefaultLayout/Footer";
+
 
 function Upload() {
-    return (
-        <div>
-            <Header />
-            <div className="content">
-                <h2>toannn upload</h2>
-            </div>
-        </div>
-    )
+    return <h2>dddddd</h2>
 }
 
 export default Upload;
